@@ -19,7 +19,7 @@
 ###
 
 <p align="center">Hi 👋, I am Marcin Szymański an ambitious front-end developer. I specialise in Web Development and Design. I love to learn new technologies, meet new people, and add value to the team I'm working in </p>
-<!-- ✨ -->
+
 ###
 
 <h3 align="left">🛠 Language and tools i use</h3>
