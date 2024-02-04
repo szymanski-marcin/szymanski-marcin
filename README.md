@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools i use mainly</h3>
+<h3 align="left">🛠 Language and tools i use</h3>
 
 ###
 
@@ -38,11 +38,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="node logo"  />
 </div>
 
 <h3 align="left"> Others</h3>
 <ul>
-  <li>Bulma,    •Bootstrap</li>
+  <li>Bulma,    • Bootstrap,    • MUI,</li>
+  <li>Express,</li>
+  <li>NPM,      • Webpack,      • Vite</li>
+  <li>Fetch,    • REST API,     • PostgreSQL</li>
+  <li>Git,      • Github,       • VS Code,</li>
+  <li>Chrome Developer Tools (incl. React)</li>
+  <li>Figma,    • Miro,         • ClickUp</li>
 </ul>
 
 ###
