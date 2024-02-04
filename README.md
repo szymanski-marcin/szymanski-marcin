@@ -43,6 +43,7 @@
 </div>
 
 <h3 align="left"> Others</h3>
+<pre>
 <ul>
   <li>Bulma,    • Bootstrap,    • MUI,</li>
   <li>Express,</li>
@@ -52,6 +53,7 @@
   <li>Chrome Developer Tools (incl. React)</li>
   <li>Figma,    • Miro,         • ClickUp</li>
 </ul>
+</pre>
 
 ###
 
