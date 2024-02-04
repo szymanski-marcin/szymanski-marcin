@@ -43,17 +43,16 @@
 </div>
 
 <h3 align="left"> Others</h3>
-<pre>
 <ul>
-  <li>Bulma,    • Bootstrap,    • MUI,</li>
+  <li>Bulma, Bootstrap, MUI,</li>
   <li>Express,</li>
-  <li>NPM,      • Webpack,      • Vite</li>
-  <li>Fetch,    • REST API,     • PostgreSQL</li>
-  <li>Git,      • Github,       • VS Code,</li>
+  <li>NPM, Webpack, Vite</li>
+  <li>Fetch, REST API, PostgreSQL</li>
+  <li>Git, Github, VS Code,</li>
   <li>Chrome Developer Tools (incl. React)</li>
-  <li>Figma,    • Miro,         • ClickUp</li>
+  <li>Figma, Miro, ClickUp</li>
+  <li>Agile, Scrum</li>
 </ul>
-</pre>
 
 ###
 
