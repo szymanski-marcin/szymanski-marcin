@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools i use</h3>
+<h3 align="left">🛠 Language and tools i use mainly</h3>
 
 ###
 
@@ -39,6 +39,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
+
+<h3 align="left"> Others</h3>
+<ul>
+  <li>Bulma,    •Bootstrap</li>
+</ul>
 
 ###
 
