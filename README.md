@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">Hi 👋, I am Marcin Szymański an ambitious front-end developer. Currently I specialise in Web Development and Design. In last 5 months I spent 1200+ hours to learn JavaScript, TypeScript, React, Redux, Sass, HTML, CSS and more.. Now with knowledge I gained I don't stop and I'm learning React Native - I am still on the basic level, but I'm working to improve my skills there. My interest in programming quickly became my passion - and now it is an inseparable part of me. </p>
+<p align="center">Hi 👋, I am Marcin Szymański an ambitious front-end developer. Currently I specialise in Web Development and Design. In last 5 months I spent 1200+ hours to learn JavaScript, TypeScript, React, Redux, Sass, HTML, CSS and more.. Now with knowledge I gained I don't stop and I'm learning Angular and PHP - I am still on the basic level, but I'm working to improve my skills there. My interest in programming quickly became my passion - and now it is an inseparable part of me. </p>
 
 ###
 
